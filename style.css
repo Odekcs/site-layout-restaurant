@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+}
+
+/* .container {
+
+} */
+
+.header {
+    background-image: url(img/back-header-img.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head-line {
+    display: flex;
+    margin: 0px 166px;
+}
+
+.head-menu {
+    margin-left: 258px;
+}
+
+.head-menu a {
+    margin-right: 23px;
+}
+
+.head-reservation button{
+    width: 157px;
+    height: 47px;
+    background: #FF7400;
+}
