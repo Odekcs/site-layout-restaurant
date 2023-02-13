@@ -24,18 +24,43 @@ a {
 .head-line {
     display: flex;
     margin: 0px 166px;
+    padding-top: 50px;
+    align-items: center;
 }
 
 .head-menu {
     margin-left: 258px;
+    font-weight: 700;
 }
 
 .head-menu a {
     margin-right: 23px;
+    text-decoration: none;
 }
 
 .head-reservation button{
     width: 157px;
     height: 47px;
     background: #FF7400;
+}
+
+.head-phone {
+    padding-left: 31px;
+}
+
+.head-phone a {
+    text-decoration: none;
+}
+
+.head-reservation {
+    padding-left: 45px;
+}
+
+.head-reservation a {
+    text-decoration: none;
+}
+
+.head-cart {
+    border-right: 1px solid #fff;
+    padding-right: 15px;
 }
